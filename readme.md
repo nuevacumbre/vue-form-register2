@@ -41,7 +41,7 @@ vue-form-register2/
 
 ### 1. Clonar Repositorio
 ```bash
-git clone <tu-url-github>
+git clone <https://github.com/nuevacumbre/vue-form-register2.git>
 cd vue-form-register2
 ```
 Nota: Ignora `node_modules` y `dist` (.gitignore activo). 
